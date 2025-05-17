@@ -1,0 +1,3 @@
+num = int(input("Enter your Name:")
+if num == int:
+   print(f"Yes, {num} is an integer")
